@@ -19,3 +19,4 @@ The analysis uses pandas, matplotlib, seaborn, and involves data cleaning, featu
 This project demonstrates strong skills in Python data analysis and data-driven storytelling.
 
 ## Dataset used 
+-<a href="https://github.com/9666785045/Netflix-analytics-project/blob/main/netflix_titles.csv"></dataset>
